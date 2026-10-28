@@ -1,4 +1,3 @@
-## Hi there 👋
 Maryam Olagunju
 **Information Security & GRC**: ISO 27001 · IAM governance · risk assessment · control assurance
 
